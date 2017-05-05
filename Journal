@@ -10,3 +10,8 @@ Game: Retro Reflex Platformer
                -https://developer.android.com/training/basics/firstapp/building-ui.html
 -Ended up not doing much because android studio didn't finish dowloading. Also need to dowload the java develper kit which is needed to run
 android studio. I am going to dowload android studio at home and put it on a flash drive to see if i can start working on a ui tomorrow.
+
+5/05/17
+-Goal:Finish setting up android studio
+-Finished setting up android studio and test so button constrants and ui layouts. Ran into an error of now being able to connect the project
+to github though. Need to dowload github for windows?? in order for it to work.
