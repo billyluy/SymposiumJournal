@@ -15,3 +15,10 @@ android studio. I am going to dowload android studio at home and put it on a fla
 -Goal:Finish setting up android studio
 -Finished setting up android studio and test so button constrants and ui layouts. Ran into an error of now being able to connect the project
 to github though. Need to dowload github for windows?? in order for it to work.
+
+5/08/17
+-Goal:Set up android studio with Github, finish making a simple ui for the game.
+-Helpful links -https://help.github.com/articles/set-up-git/
+               -http://stackoverflow.com/questions/26979914/how-to-add-android-project-to-github
+-ran into multiple problems today. First, the cpu on our computer can't support the emulator, so we can't test anything unless we plug our
+actually phones and test it there. another problem is taht github still isn't working and we can't really find a way to fix this problem.
