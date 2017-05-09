@@ -22,3 +22,9 @@ to github though. Need to dowload github for windows?? in order for it to work.
                -http://stackoverflow.com/questions/26979914/how-to-add-android-project-to-github
 -ran into multiple problems today. First, the cpu on our computer can't support the emulator, so we can't test anything unless we plug our
 actually phones and test it there. another problem is taht github still isn't working and we can't really find a way to fix this problem.
+
+5/09/17
+-Goal- set up github & start creating a simple ui for testing
+-We have succesfully connected our Android Studio project to github, so now we can pull and push the project, so multiple peopel can work
+on it at the same time. Also, we finished setting up a simple ui so we can see the differnce between coding in android. We still have a lot
+about android and android studio's differences between eclipse.
