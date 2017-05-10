@@ -2,6 +2,7 @@ Billy Luy
 Period 6
 
 Game: Retro Reflex Platformer
+Libgdx API - http://libgdx.badlogicgames.com/nightlies/docs/api/
 
 5/04/17
 -Goal: Setting up android studio & Learn how to create a simple UI using Android Studio.
@@ -28,3 +29,14 @@ actually phones and test it there. another problem is taht github still isn't wo
 -We have succesfully connected our Android Studio project to github, so now we can pull and push the project, so multiple peopel can work
 on it at the same time. Also, we finished setting up a simple ui so we can see the differnce between coding in android. We still have a lot
 about android and android studio's differences between eclipse.
+
+5/10/17
+-Goal - Get Libgdx to work with android studio so we can use the libraries it already has instead of making our own.
+-Helpful links -http://www.programmingmoney.com/setup-libgdx-android-studio/
+               -http://www.java-gaming.org/index.php?topic=32347.0
+-using a game framework is very useful because you don't have to start from stracth. This allows us to focus on the game and not the
+complication of making a game engine. A very useful thing that libgdx includes is a way for images to fit differnt screens. This was a
+problem we were facing before but libgdx has a method called FitViewport which creates black bars on screens that are to big. Libgdx
+has many other useful methods as well that we can you to help make the game a lot better than it would be if we were to spend most
+of our time making a game engine that probably wouldn't be as good. For next time, im planned to get libgdx to work with android studio
+so i can make a project using libgdx instead of making an entire game engine.
