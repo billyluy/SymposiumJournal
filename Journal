@@ -40,3 +40,8 @@ problem we were facing before but libgdx has a method called FitViewport which c
 has many other useful methods as well that we can you to help make the game a lot better than it would be if we were to spend most
 of our time making a game engine that probably wouldn't be as good. For next time, im planned to get libgdx to work with android studio
 so i can make a project using libgdx instead of making an entire game engine.
+
+5/11/17
+-Goal - Set up android studio with Libgdx
+-Finished setting up android studio with Libgdx so now we can work on our project and adding classes and screens to the project.
+Next we need to work on learning Libgdx and the many functions it provides for us to use.
