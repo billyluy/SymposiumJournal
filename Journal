@@ -45,3 +45,11 @@ so i can make a project using libgdx instead of making an entire game engine.
 -Goal - Set up android studio with Libgdx
 -Finished setting up android studio with Libgdx so now we can work on our project and adding classes and screens to the project.
 Next we need to work on learning Libgdx and the many functions it provides for us to use.
+
+5/12/17
+-Goal - Learn more about Libgdx and how to implement it into our android project
+-Learned about how libgdx uses a specific way of doing things. This is sort of learnign a whole new language becasue you need to learn
+how all the classes are used and read on how they are implemented. Even though android is coded in Java, libgdx is like coding in 
+a whole new language. I learned how libgdx uses a class called batch to draw things onto the screen and about all the differnt
+viewports and cameras used to make the screen relative and scretchable. Also, libgdx has a special way of loading up maps which can be
+used very effectively to make collison and other entities precise to the exact pixel.
