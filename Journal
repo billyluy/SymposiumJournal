@@ -53,3 +53,8 @@ how all the classes are used and read on how they are implemented. Even though a
 a whole new language. I learned how libgdx uses a class called batch to draw things onto the screen and about all the differnt
 viewports and cameras used to make the screen relative and scretchable. Also, libgdx has a special way of loading up maps which can be
 used very effectively to make collison and other entities precise to the exact pixel.
+
+5/15/17
+-Goal - create a hud for the game
+-made a hud for the game so that there is a constant camera set. This means that as the character moves around, that one object
+on the screen will never move. This object can be updated. Today i just made a hud for the game level.
