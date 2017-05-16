@@ -58,3 +58,10 @@ used very effectively to make collison and other entities precise to the exact p
 -Goal - create a hud for the game
 -made a hud for the game so that there is a constant camera set. This means that as the character moves around, that one object
 on the screen will never move. This object can be updated. Today i just made a hud for the game level.
+
+5/16/17
+-Goal - get map to load correctly and finish hud
+-made final adjustments to the hud so it is ready to run now. The only problem now is working on the map and getting it to run.
+We ran into a big problem, not getting the map to run or render. The hud is working fine and is loading properly. But once we try to load 
+the map, all we get is a black screen and the hud. There aren'y any error messages so it's hard to check what the problem is. We have 
+spend the whole time trying to find solutions online
