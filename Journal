@@ -65,3 +65,8 @@ on the screen will never move. This object can be updated. Today i just made a h
 We ran into a big problem, not getting the map to run or render. The hud is working fine and is loading properly. But once we try to load 
 the map, all we get is a black screen and the hud. There aren'y any error messages so it's hard to check what the problem is. We have 
 spend the whole time trying to find solutions online
+
+5/17/17
+-Goal - get the map to load
+-we finally got a working map to load. The problem was that Libgdx uses specific pixel sizes and wont recongize anything else. this is
+problems for us and wont load the map. we fixed it by fixing the pixel sizes
