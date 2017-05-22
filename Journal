@@ -70,3 +70,9 @@ spend the whole time trying to find solutions online
 -Goal - get the map to load
 -we finally got a working map to load. The problem was that Libgdx uses specific pixel sizes and wont recongize anything else. this is
 problems for us and wont load the map. we fixed it by fixing the pixel sizes
+
+5/22/17
+-Goal - Fix map and camera position
+-We fixed the map making it compatible with Libgdx and able to render. Also, because we had to change the map around, we also had
+to fix the camera position so that the game would start at the correct part of the map. We did this by setting the camera to the top
+left starting position. Also worked on outlining the ground so we can use it for collision.
