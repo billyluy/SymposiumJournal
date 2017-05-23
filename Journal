@@ -76,3 +76,8 @@ problems for us and wont load the map. we fixed it by fixing the pixel sizes
 -We fixed the map making it compatible with Libgdx and able to render. Also, because we had to change the map around, we also had
 to fix the camera position so that the game would start at the correct part of the map. We did this by setting the camera to the top
 left starting position. Also worked on outlining the ground so we can use it for collision.
+
+5/23/17
+-Goal- create the player class
+-started creating the player, using Box2D as a way to have collision and physics. Didn't complete creating the player class but started
+to implement Box2D into it.
