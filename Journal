@@ -81,3 +81,9 @@ left starting position. Also worked on outlining the ground so we can use it for
 -Goal- create the player class
 -started creating the player, using Box2D as a way to have collision and physics. Didn't complete creating the player class but started
 to implement Box2D into it.
+
+5/24/17
+-Goal- finish creating the player
+-finished creating the player, with physics added to it. But as we changed the map sizes so that the phyics works, we ran into problems
+with the map again. We needed to change from pixels to meters because libgdx runs it's physics simulation off of meters. This caused
+problems again because our map was sized specific to pixels.
