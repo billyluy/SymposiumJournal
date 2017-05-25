@@ -87,3 +87,8 @@ to implement Box2D into it.
 -finished creating the player, with physics added to it. But as we changed the map sizes so that the phyics works, we ran into problems
 with the map again. We needed to change from pixels to meters because libgdx runs it's physics simulation off of meters. This caused
 problems again because our map was sized specific to pixels.
+
+5/25/17
+-Goal - get the map to render with the changed sizes
+-didn't get the map to render. Changing the sizes from pixels to meters has caused errors and made the camera wrong again. We need to
+fix the camera so it will see the map even with the changed screen sizes.
