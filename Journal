@@ -92,3 +92,8 @@ problems again because our map was sized specific to pixels.
 -Goal - get the map to render with the changed sizes
 -didn't get the map to render. Changing the sizes from pixels to meters has caused errors and made the camera wrong again. We need to
 fix the camera so it will see the map even with the changed screen sizes.
+
+5/26/17
+-Goal - change the sizes of the map and clean up the code
+- We finialy got the size to load with the changed sizes of the map to meters instead of pixels by dividing all the pixel values by
+100 to get a meter value. Also, we started cleaning up the code and making seperate functions and classes for all the differnt parts.
