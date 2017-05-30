@@ -97,3 +97,9 @@ fix the camera so it will see the map even with the changed screen sizes.
 -Goal - change the sizes of the map and clean up the code
 - We finialy got the size to load with the changed sizes of the map to meters instead of pixels by dividing all the pixel values by
 100 to get a meter value. Also, we started cleaning up the code and making seperate functions and classes for all the differnt parts.
+
+5/30/17
+-Goal - set working on collision
+- We have almost compelted the collision. All we need to do now is actually do something when the player collides. This should be fairly
+easy becasue we already made printing methods for the collision. Also, we cleaned up the code and made seperate classes for every object
+on the map. Before we just put everything into the playerscreen class which made it clutterd.
