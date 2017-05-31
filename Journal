@@ -103,3 +103,9 @@ fix the camera so it will see the map even with the changed screen sizes.
 - We have almost compelted the collision. All we need to do now is actually do something when the player collides. This should be fairly
 easy becasue we already made printing methods for the collision. Also, we cleaned up the code and made seperate classes for every object
 on the map. Before we just put everything into the playerscreen class which made it clutterd.
+
+5/31/17
+-Goal-work on disappearing tiles
+- ran into small errors, might have to rewrite some of the code again so we can use functions effectively. Also, we have to figure out a
+way to delete certain graphics once collision occurs. This is quite dfficult because we have to use libgdx's way to masking bits. this
+whole concept is pretty difficult to understand since it's dealing with variables and changing it's "mask".
