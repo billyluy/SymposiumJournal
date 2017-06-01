@@ -109,3 +109,9 @@ on the map. Before we just put everything into the playerscreen class which made
 - ran into small errors, might have to rewrite some of the code again so we can use functions effectively. Also, we have to figure out a
 way to delete certain graphics once collision occurs. This is quite dfficult because we have to use libgdx's way to masking bits. this
 whole concept is pretty difficult to understand since it's dealing with variables and changing it's "mask".
+
+6/1/17
+-Goal- finish disappearing tiles
+- We got a lot progress done. Not only did we finish the disappearing tiles, we also completed a double jump coin. WE used the api and 
+stackoverflow to find out that we can use sensors which detects collision but also ignores the physics part of it. So this made the coins
+be able to detect collision but also not actually collide with the character, making the collection of coins possible and fluid.
