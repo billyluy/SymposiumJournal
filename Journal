@@ -115,3 +115,8 @@ whole concept is pretty difficult to understand since it's dealing with variable
 - We got a lot of progress done. Not only did we finish the disappearing tiles, we also completed a double jump coin. WE used the api and 
 stackoverflow to find out that we can use sensors which detects collision but also ignores the physics part of it. So this made the coins
 be able to detect collision but also not actually collide with the character, making the collection of coins possible and fluid.
+
+6/2/17
+-Goal- work on map
+- Because there wasn't a lot of time to work on this today, all I did was make minor changes to the map and the objects to make the map
+playable. This was just for the tutorial stage, we also have to make the other stages aswell.
