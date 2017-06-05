@@ -120,3 +120,7 @@ be able to detect collision but also not actually collide with the character, ma
 -Goal- work on map
 - Because there wasn't a lot of time to work on this today, all I did was make minor changes to the map and the objects to make the map
 playable. This was just for the tutorial stage, we also have to make the other stages aswell.
+
+6/5/17
+-Added a new spirte which will later be used for moving spikes. Also, fixed errors with a controller we added and rendering of a new 
+sprite.
