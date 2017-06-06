@@ -124,3 +124,8 @@ playable. This was just for the tutorial stage, we also have to make the other s
 6/5/17
 -Added a new spirte which will later be used for moving spikes. Also, fixed errors with a controller we added and rendering of a new 
 sprite.
+
+6/6/17
+-Goal- work on the new sprite so collisoin will kill player
+-started working on the contact listener to make the sprite interact with each other. Also, worked on destroying the spike when it
+touches the ground, so it would block the map.
