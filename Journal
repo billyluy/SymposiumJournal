@@ -129,3 +129,8 @@ sprite.
 -Goal- work on the new sprite so collisoin will kill player
 -started working on the contact listener to make the sprite interact with each other. Also, worked on destroying the spike when it
 touches the ground, so it would block the map.
+
+6/7/17
+-Goal- finish working on new sprite collision
+-We completed the moving spikes and are able to have it dissapear after collision with player or the ground. The spike checks the player's
+coordinates and determines whether or not if it should move. Also, we completed a end screen and started working on a save tile.
